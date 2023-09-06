@@ -1,7 +1,7 @@
 # StyleTransfer_CNNBased
 
-<img src="./asset/image_1.jpg" alt="Content 1" height="300" width="200"> <img src="./asset/image_2.jpg" alt="Style 1" height="300" width="200"> <img src="./asset/result.jpg" alt="Style 1" height="300" width="200">
-Content + Style = Result
+Content <img src="./asset/image_1.jpg" alt="Content 1" height="250" width="250"> Style <img src="./asset/image_2.jpg" alt="Style 1" height="250" width="250"> -> <img src="./asset/result.jpg" alt="Style 1" height="250" width="250">
+
 
 ![Result](./image1.jpg)
 
