@@ -1,11 +1,8 @@
 # StyleTransfer_CNNBased
 
 Content
-
 <img src="./image_1.jpg" alt="Content 1" width="500">
-
 Style
-
 <img src="./image_2.jpg" alt="Style 1" width="500">
 
 Content + Style = Result
