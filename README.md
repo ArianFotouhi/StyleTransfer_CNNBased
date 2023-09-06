@@ -1,6 +1,13 @@
 # StyleTransfer_CNNBased
 
-Content <img src="./asset/image_1.jpg" alt="Content 1" height="200" width="200"> Style <img src="./asset/image_2.jpg" alt="Style 1" height="200" width="200"> 
+   
+<div style="text-align:center;">
+  Content
+  <img src="./asset/image_1.jpg" alt="Content 1" height="200" width="200">
+  
+  Style
+  Style <img src="./asset/image_2.jpg" alt="Style 1" height="200" width="200">
+</div>
 
 Result
 <div style="text-align:center;">
