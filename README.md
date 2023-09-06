@@ -2,11 +2,11 @@
 
 Content
 
-![Content 1](./image_1.jpg)
+<img src="./image_1.jpg" alt="Content 1" width="200" height="150">
 
 Style
 
-![Style 1](./image_2.jpg)
+<img src="./image_2.jpg" alt="Style 1" width="200" height="150">
 
 Content + Style = Result
 
