@@ -1,9 +1,7 @@
 # StyleTransfer_CNNBased
 
-Content <img src="./asset/image_1.jpg" alt="Content 1" height="250" width="250"> Style <img src="./asset/image_2.jpg" alt="Style 1" height="250" width="250"> -> <img src="./asset/result.jpg" alt="Style 1" height="250" width="250">
+Content <img src="./asset/image_1.jpg" alt="Content 1" height="300" width="300"> Style <img src="./asset/image_2.jpg" alt="Style 1" height="300" width="300"> -> <img src="./asset/result.jpg" alt="Style 1" height="300" width="300">
 
-
-![Result](./image1.jpg)
 
 Let's begin by working with two images: one referred to as the "content image" and the other as the "style image." We extract features from the content image using layers of a Convolutional Neural Network (CNN), and similarly, we extract styles and textures from the style image. Our goal is to create a "target image" (output image) that combines the content and style.
 
