@@ -2,11 +2,11 @@
 
 Content
 
-![Content 1](./image1.jpg)
+![Content 1](./image_1.jpg)
 
 Style
 
-![Style 1](./image2.jpg)
+![Style 1](./image_2.jpg)
 
 Result
 
