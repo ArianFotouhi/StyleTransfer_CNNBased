@@ -8,7 +8,7 @@ Style
 
 ![Style 1](./image_2.jpg)
 
-Result
+Content + Style = Result
 
 ![Result](./image1.jpg)
 
